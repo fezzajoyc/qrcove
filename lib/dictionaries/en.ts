@@ -3,7 +3,7 @@
 const en = {
   brand: "QRCove",
   tagline: "Every QR code is created in your browser.",
-  metaDesc: "Free QR code generator and reader that runs entirely in your browser. Create codes for links, Wi-Fi, contacts and more — no watermark, no signup, never expires. Scan images to see exactly what is inside before you open it.",
+  metaDesc: "Free QR code generator and reader in your browser. Codes for links, Wi-Fi, contacts and more — no watermark, no signup, never expires. Scan images safely.",
 
   nav: {
     tools: "All tools",
